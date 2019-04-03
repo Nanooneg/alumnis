@@ -21,7 +21,7 @@ description:
     J'ai passé presque dix ans dans le secteur des jeux d'argent. Après une 
     courte expérience dans la restauration japonais, J'ai décidé de changer 
     de cap! Fan de tech en tout genre, je me suis lancé dans l'apprendtissage
-    du language JAVA, motivé pour changer de vie. Je joue beaucoup au poker,
+    du langage JAVA, motivé pour changer de vie. Je joue beaucoup au poker,
     en ligne et en live et je passe pas mal de temps devant films et séries.
 
 # image must be located in content/images/students
